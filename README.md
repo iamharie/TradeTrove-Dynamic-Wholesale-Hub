@@ -1,4 +1,4 @@
-#Project Title: TradeTrove: Dynamic Wholesale Hub
+# Project Title: TradeTrove: Dynamic Wholesale Hub
 
 ###Description:
 Created a dynamic and responsive website with seamless database connectivity using a combination of PHP, JavaScript, HTML, CSS, and SQL. The website features advanced search functionality with various attributes, providing users with real-time search results displayed in a tabular format.
